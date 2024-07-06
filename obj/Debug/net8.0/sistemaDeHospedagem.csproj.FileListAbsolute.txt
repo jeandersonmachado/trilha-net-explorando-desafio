@@ -1,0 +1,14 @@
+C:\Users\jeand\OneDrive\Documentos\Desafio\sistemaDeHospedagem\bin\Debug\net8.0\sistemaDeHospedagem.exe
+C:\Users\jeand\OneDrive\Documentos\Desafio\sistemaDeHospedagem\bin\Debug\net8.0\sistemaDeHospedagem.deps.json
+C:\Users\jeand\OneDrive\Documentos\Desafio\sistemaDeHospedagem\bin\Debug\net8.0\sistemaDeHospedagem.runtimeconfig.json
+C:\Users\jeand\OneDrive\Documentos\Desafio\sistemaDeHospedagem\bin\Debug\net8.0\sistemaDeHospedagem.dll
+C:\Users\jeand\OneDrive\Documentos\Desafio\sistemaDeHospedagem\bin\Debug\net8.0\sistemaDeHospedagem.pdb
+C:\Users\jeand\OneDrive\Documentos\Desafio\sistemaDeHospedagem\obj\Debug\net8.0\sistemaDeHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeand\OneDrive\Documentos\Desafio\sistemaDeHospedagem\obj\Debug\net8.0\sistemaDeHospedagem.AssemblyInfoInputs.cache
+C:\Users\jeand\OneDrive\Documentos\Desafio\sistemaDeHospedagem\obj\Debug\net8.0\sistemaDeHospedagem.AssemblyInfo.cs
+C:\Users\jeand\OneDrive\Documentos\Desafio\sistemaDeHospedagem\obj\Debug\net8.0\sistemaDeHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\jeand\OneDrive\Documentos\Desafio\sistemaDeHospedagem\obj\Debug\net8.0\sistemaDeHospedagem.dll
+C:\Users\jeand\OneDrive\Documentos\Desafio\sistemaDeHospedagem\obj\Debug\net8.0\refint\sistemaDeHospedagem.dll
+C:\Users\jeand\OneDrive\Documentos\Desafio\sistemaDeHospedagem\obj\Debug\net8.0\sistemaDeHospedagem.pdb
+C:\Users\jeand\OneDrive\Documentos\Desafio\sistemaDeHospedagem\obj\Debug\net8.0\sistemaDeHospedagem.genruntimeconfig.cache
+C:\Users\jeand\OneDrive\Documentos\Desafio\sistemaDeHospedagem\obj\Debug\net8.0\ref\sistemaDeHospedagem.dll
